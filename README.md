@@ -1,4 +1,4 @@
-# Froms
+# Froms Study
 Study of forms with validations in JS
 
 1. Form
